@@ -7,7 +7,7 @@ on:
 
 env:
   DOTNET_VERSION: '5.0.x'
-  AZURE_WEBAPP_NAME: StropekTest
+  AZURE_WEBAPP_NAME: 'StropekTest'
 
 jobs:
   build:
